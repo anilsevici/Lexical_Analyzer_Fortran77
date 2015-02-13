@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1398279700 source:c:\users\anil\desktop\lexical_analyzer_fortran77\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1398987379 source:c:\users\anil\documents\bÝlmuh\2.sýnýf\dönem 2\pl\slaytlar-pdf kitap\pl-project\lexical_analyzer_fortran77\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
